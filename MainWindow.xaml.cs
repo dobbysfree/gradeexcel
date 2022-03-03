@@ -57,7 +57,7 @@ namespace creategrade
 
         void InputExcel(Excel.Worksheet ws)
         {
-            int num  = 25;
+            int num  = 35;
             var cntItem = sp_items.Children.Count;
        
             ws.Cells[1, 1] = "No";
