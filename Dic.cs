@@ -4,7 +4,7 @@ namespace creategrade
 {
     internal class Dic
     {
-        public static Dictionary<int, string> Colums = new Dictionary<int, string>
+        public static Dictionary<int, string> ColumnAlpha = new Dictionary<int, string>
         {
             { 1, "A" },
             { 2, "B" },
